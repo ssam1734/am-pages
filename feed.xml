@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Arsenii Marinin</title>
-    <link href="https://ssam1734.github.io/am-pages/feed.xml" rel="self" />
-    <link href="https://ssam1734.github.io/am-pages" />
+    <link href="https://www.amarinin.co.uk/feed.xml" rel="self" />
+    <link href="https://www.amarinin.co.uk" />
     <updated>2025-06-25T19:26:06+01:00</updated>
     <author>
         <name>Arsenii Marinin</name>
     </author>
-    <id>https://ssam1734.github.io/am-pages</id>
+    <id>https://www.amarinin.co.uk</id>
 
     <entry>
         <title>Damaged Goods</title>
         <author>
             <name>Arsenii Marinin</name>
         </author>
-        <link href="https://ssam1734.github.io/am-pages/damaged-goods-2.html"/>
-        <id>https://ssam1734.github.io/am-pages/damaged-goods-2.html</id>
-        <media:content url="https://ssam1734.github.io/am-pages/media/posts/9/005.jpg" medium="image" />
+        <link href="https://www.amarinin.co.uk/damaged-goods-2.html"/>
+        <id>https://www.amarinin.co.uk/damaged-goods-2.html</id>
+        <media:content url="https://www.amarinin.co.uk/media/posts/9/005.jpg" medium="image" />
 
         <updated>2021-08-01T20:48:00+01:00</updated>
             <summary></summary>
@@ -27,9 +27,9 @@
         <author>
             <name>Arsenii Marinin</name>
         </author>
-        <link href="https://ssam1734.github.io/am-pages/a-d.html"/>
-        <id>https://ssam1734.github.io/am-pages/a-d.html</id>
-        <media:content url="https://ssam1734.github.io/am-pages/media/posts/10/006-2.jpg" medium="image" />
+        <link href="https://www.amarinin.co.uk/a-d.html"/>
+        <id>https://www.amarinin.co.uk/a-d.html</id>
+        <media:content url="https://www.amarinin.co.uk/media/posts/10/006-2.jpg" medium="image" />
 
         <updated>2020-09-01T23:32:00+01:00</updated>
             <summary></summary>
@@ -40,9 +40,9 @@
         <author>
             <name>Arsenii Marinin</name>
         </author>
-        <link href="https://ssam1734.github.io/am-pages/birth-to-death.html"/>
-        <id>https://ssam1734.github.io/am-pages/birth-to-death.html</id>
-        <media:content url="https://ssam1734.github.io/am-pages/media/posts/11/007.jpg" medium="image" />
+        <link href="https://www.amarinin.co.uk/birth-to-death.html"/>
+        <id>https://www.amarinin.co.uk/birth-to-death.html</id>
+        <media:content url="https://www.amarinin.co.uk/media/posts/11/007.jpg" medium="image" />
 
         <updated>2019-07-01T12:57:00+01:00</updated>
             <summary></summary>
@@ -53,9 +53,9 @@
         <author>
             <name>Arsenii Marinin</name>
         </author>
-        <link href="https://ssam1734.github.io/am-pages/doubles.html"/>
-        <id>https://ssam1734.github.io/am-pages/doubles.html</id>
-        <media:content url="https://ssam1734.github.io/am-pages/media/posts/7/003.JPG" medium="image" />
+        <link href="https://www.amarinin.co.uk/doubles.html"/>
+        <id>https://www.amarinin.co.uk/doubles.html</id>
+        <media:content url="https://www.amarinin.co.uk/media/posts/7/003.JPG" medium="image" />
 
         <updated>2018-03-01T20:34:00+00:00</updated>
             <summary></summary>
