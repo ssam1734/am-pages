@@ -3,7 +3,7 @@
     <title>Arsenii Marinin</title>
     <link href="https://www.amarinin.co.uk/feed.xml" rel="self" />
     <link href="https://www.amarinin.co.uk" />
-    <updated>2025-06-25T19:26:06+01:00</updated>
+    <updated>2025-07-11T18:08:24+01:00</updated>
     <author>
         <name>Arsenii Marinin</name>
     </author>
@@ -59,6 +59,16 @@
 
         <updated>2018-03-01T20:34:00+00:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.amarinin.co.uk/media/posts/7/003.JPG" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.amarinin.co.uk/media/posts/7/001.JPG" alt="" width="1736" height="1158" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.amarinin.co.uk/media/posts/7/responsive/001-xs.JPG 300w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-sm.JPG 480w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-md.JPG 768w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-lg.JPG 1024w"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/7/gallery/002.JPG" data-size="1738x1159"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/7/gallery/002-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/7/gallery/004.JPG" data-size="1743x1162"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/7/gallery/004-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/7/gallery/003.JPG" data-size="1737x1158"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/7/gallery/003-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
 </feed>
