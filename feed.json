@@ -46,14 +46,14 @@
             "tags": [
             ],
             "date_published": "2019-07-01T12:57:00+01:00",
-            "date_modified": "2025-06-25T19:26:06+01:00"
+            "date_modified": "2025-07-16T20:57:39+01:00"
         },
         {
             "id": "https://www.amarinin.co.uk/the-journey.html",
             "url": "https://www.amarinin.co.uk/the-journey.html",
             "title": "The Journey",
-            "summary": "An analog journey where I tried to establish a connection between my&hellip;",
-            "content_html": "<p>An analog journey where I tried to establish a connection between my birthplace<br>and my dream place.<br>\"The Journey\" encompasses a series of photographs utilizing the \"blind double<br>exposure\" technique. During a business trip to London, the initial layer of the film<br>was exposed, followed by a second layer exposed in Saratov, without prior<br>knowledge of the first layer's content.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.amarinin.co.uk/media/posts/7/001.JPG\" alt=\"\" width=\"1736\" height=\"1158\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.amarinin.co.uk/media/posts/7/responsive/001-xs.JPG 300w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-sm.JPG 480w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-md.JPG 768w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-lg.JPG 1024w\"></figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/7/gallery/002.JPG\" data-size=\"1738x1159\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/7/gallery/002-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/7/gallery/004.JPG\" data-size=\"1743x1162\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/7/gallery/004-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/7/gallery/003.JPG\" data-size=\"1737x1158\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/7/gallery/003-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>",
+            "summary": "\"The Journey\" encompasses a series of photographs utilising the \"blind double exposure\"&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.amarinin.co.uk/media/posts/7/001.JPG\" alt=\"\" width=\"1736\" height=\"1158\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.amarinin.co.uk/media/posts/7/responsive/001-xs.JPG 300w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-sm.JPG 480w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-md.JPG 768w ,https://www.amarinin.co.uk/media/posts/7/responsive/001-lg.JPG 1024w\"></figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/7/gallery/002.JPG\" data-size=\"1738x1159\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/7/gallery/002-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/7/gallery/004.JPG\" data-size=\"1743x1162\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/7/gallery/004-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/7/gallery/003.JPG\" data-size=\"1737x1158\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/7/gallery/003-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<blockquote>\n<p>\"The Journey\" encompasses a series of photographs utilising the \"blind double<br>exposure\" technique. During a business trip to London, the initial layer of the film<br>was exposed, followed by a second layer exposed in Saratov, without prior<br>knowledge of the first layer's content.</p>\n</blockquote>",
             "image": "https://www.amarinin.co.uk/media/posts/7/003.JPG",
             "author": {
                 "name": "Arsenii Marinin"
@@ -61,7 +61,7 @@
             "tags": [
             ],
             "date_published": "2018-03-01T20:34:00+00:00",
-            "date_modified": "2025-07-11T18:14:43+01:00"
+            "date_modified": "2025-07-16T20:57:42+01:00"
         }
     ]
 }
