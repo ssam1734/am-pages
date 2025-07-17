@@ -3,7 +3,7 @@
     <title>Arsenii Marinin</title>
     <link href="https://www.amarinin.co.uk/feed.xml" rel="self" />
     <link href="https://www.amarinin.co.uk" />
-    <updated>2025-07-16T20:57:42+01:00</updated>
+    <updated>2025-07-17T20:02:44+01:00</updated>
     <author>
         <name>Arsenii Marinin</name>
     </author>
@@ -33,7 +33,12 @@
 
         <updated>2020-09-01T23:32:00+01:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.amarinin.co.uk/media/posts/10/006-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img  src="https://www.amarinin.co.uk/media/posts/10/002.gif" alt="" width="720" height="488"></figure><figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://www.amarinin.co.uk/media/posts/10/001.jpg" alt="" width="1066" height="711" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.amarinin.co.uk/media/posts/10/responsive/001-xs.jpg 300w ,https://www.amarinin.co.uk/media/posts/10/responsive/001-sm.jpg 480w ,https://www.amarinin.co.uk/media/posts/10/responsive/001-md.jpg 768w ,https://www.amarinin.co.uk/media/posts/10/responsive/001-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Death to Birth</title>
@@ -73,9 +78,8 @@
 <figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/7/gallery/004.JPG" data-size="1743x1162"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/7/gallery/004-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/7/gallery/003.JPG" data-size="1737x1158"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/7/gallery/003-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
 </div></div>
-<blockquote>
-<p>"The Journey" encompasses a series of photographs utilising the "blind double<br>exposure" technique. During a business trip to London, the initial layer of the film<br>was exposed, followed by a second layer exposed in Saratov, without prior<br>knowledge of the first layer's content.</p>
-</blockquote>
+<p>"The Journey" encompasses a series of photographs utilising the "blind double<br>exposure" technique.</p>
+<p>During a business trip to London, the initial layer of the film<br>was exposed, followed by a second layer exposed in Saratov, without prior<br>knowledge of the first layer's content.</p>
             ]]>
         </content>
     </entry>
