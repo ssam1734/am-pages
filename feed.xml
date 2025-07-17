@@ -3,7 +3,7 @@
     <title>Arsenii Marinin</title>
     <link href="https://www.amarinin.co.uk/feed.xml" rel="self" />
     <link href="https://www.amarinin.co.uk" />
-    <updated>2025-07-17T20:02:44+01:00</updated>
+    <updated>2025-07-17T20:20:54+01:00</updated>
     <author>
         <name>Arsenii Marinin</name>
     </author>
@@ -51,7 +51,18 @@
 
         <updated>2019-07-01T12:57:00+01:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.amarinin.co.uk/media/posts/11/007.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/11/gallery/001.jpg" data-size="1687x1136"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/11/gallery/001-thumbnail.jpg" alt="" width="768" height="517"></a></figure>
+</div></div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/11/gallery/003-2.jpg" data-size="1711x1129"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/11/gallery/003-2-thumbnail.jpg" alt="" width="768" height="507"></a></figure>
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/11/gallery/004-2.jpg" data-size="1787x1107"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/11/gallery/004-2-thumbnail.jpg" alt="" width="768" height="476"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>The Journey</title>
