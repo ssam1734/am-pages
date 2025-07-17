@@ -3,7 +3,7 @@
     <title>Arsenii Marinin</title>
     <link href="https://www.amarinin.co.uk/feed.xml" rel="self" />
     <link href="https://www.amarinin.co.uk" />
-    <updated>2025-07-17T20:20:54+01:00</updated>
+    <updated>2025-07-17T20:30:13+01:00</updated>
     <author>
         <name>Arsenii Marinin</name>
     </author>
@@ -20,7 +20,20 @@
 
         <updated>2021-08-01T20:48:00+01:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.amarinin.co.uk/media/posts/9/005.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/9/gallery/007.jpg" data-size="1144x1716"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/9/gallery/007-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/9/gallery/004.jpg" data-size="1104x1719"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/9/gallery/004-thumbnail.jpg" alt="" width="768" height="1196"></a></figure>
+</div></div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/9/gallery/001.jpg" data-size="1722x1148"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/9/gallery/001-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/9/gallery/003.jpg" data-size="836x557"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/9/gallery/003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/9/gallery/005.jpg" data-size="1687x1125"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/9/gallery/005-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Abyss</title>
