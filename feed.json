@@ -27,15 +27,15 @@
             "id": "https://www.amarinin.co.uk/a-d.html",
             "url": "https://www.amarinin.co.uk/a-d.html",
             "title": "Abyss",
-            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/10/gallery/002.gif\" data-size=\"720x488\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/10/gallery/002.gif\" alt=\"\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/10/gallery/001.jpg\" data-size=\"1066x711\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/10/gallery/001-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>",
-            "image": "https://www.amarinin.co.uk/media/posts/10/006-2.jpg",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/10/gallery/002.gif\" data-size=\"720x488\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/10/gallery/002.gif\" alt=\"\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.amarinin.co.uk/media/posts/10/gallery/001-2.jpg\" data-size=\"3000x2000\"><img loading=\"lazy\" src=\"https://www.amarinin.co.uk/media/posts/10/gallery/001-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>",
+            "image": "https://www.amarinin.co.uk/media/posts/10/003.jpg",
             "author": {
                 "name": "Arsenii Marinin"
             },
             "tags": [
             ],
             "date_published": "2020-09-01T23:32:00+01:00",
-            "date_modified": "2025-07-17T20:36:25+01:00"
+            "date_modified": "2026-01-12T22:51:11+00:00"
         },
         {
             "id": "https://www.amarinin.co.uk/birth-to-death.html",
