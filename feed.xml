@@ -3,7 +3,7 @@
     <title>Arsenii Marinin</title>
     <link href="https://www.amarinin.co.uk/feed.xml" rel="self" />
     <link href="https://www.amarinin.co.uk" />
-    <updated>2026-01-12T23:07:34+00:00</updated>
+    <updated>2026-01-13T01:26:43+00:00</updated>
     <author>
         <name>Arsenii Marinin</name>
     </author>
@@ -90,12 +90,7 @@
         <media:content url="https://www.amarinin.co.uk/media/posts/7/003.JPG" medium="image" />
 
         <updated>2018-03-01T20:34:00+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.amarinin.co.uk/media/posts/7/003.JPG" alt="" />
-                    "The Journey" encompasses a series of photographs utilising the "blind double exposure"&hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.amarinin.co.uk/media/posts/7/003.JPG" class="type:primaryImage" alt="" /></p>
@@ -105,8 +100,6 @@
 <figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/7/gallery/004.JPG" data-size="1743x1162"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/7/gallery/004-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/7/gallery/003.JPG" data-size="1737x1158"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/7/gallery/003-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
 </div></div>
-<p>"The Journey" encompasses a series of photographs utilising the "blind double<br>exposure" technique.</p>
-<p>During a business trip to London, the initial layer of the film<br>was exposed, followed by a second layer exposed in Saratov, without prior<br>knowledge of the first layer's content.</p>
             ]]>
         </content>
     </entry>
