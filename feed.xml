@@ -3,7 +3,7 @@
     <title>Arsenii Marinin</title>
     <link href="https://www.amarinin.co.uk/feed.xml" rel="self" />
     <link href="https://www.amarinin.co.uk" />
-    <updated>2026-01-12T22:51:11+00:00</updated>
+    <updated>2026-01-12T23:07:34+00:00</updated>
     <author>
         <name>Arsenii Marinin</name>
     </author>
@@ -50,8 +50,8 @@
             <![CDATA[
                     <p><img src="https://www.amarinin.co.uk/media/posts/10/003.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/10/gallery/002.gif" data-size="720x488"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/10/gallery/002.gif" alt=""></a></figure>
 <figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/10/gallery/001-2.jpg" data-size="3000x2000"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/10/gallery/001-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.amarinin.co.uk/media/posts/10/gallery/002.gif" data-size="720x488"><img loading="lazy" src="https://www.amarinin.co.uk/media/posts/10/gallery/002.gif" alt=""></a></figure>
 </div></div>
             ]]>
         </content>
